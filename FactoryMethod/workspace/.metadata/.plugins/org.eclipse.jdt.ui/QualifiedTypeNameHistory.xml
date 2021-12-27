@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="buttons.MacOSButton"/>
+    <fullyQualifiedTypeName name="checkboxes.MacOSCheckbox"/>
+    <fullyQualifiedTypeName name="buttons.WindowsButton"/>
+    <fullyQualifiedTypeName name="checkboxes.WindowsCheckbox"/>
+    <fullyQualifiedTypeName name="buttons.Button"/>
+    <fullyQualifiedTypeName name="checkboxes.Checkbox"/>
+    <fullyQualifiedTypeName name="app.Application"/>
+    <fullyQualifiedTypeName name="factories.GUIFactory"/>
+    <fullyQualifiedTypeName name="factories.MacOSFactory"/>
+    <fullyQualifiedTypeName name="factories.WindowsFactory"/>
+</qualifiedTypeNameHistroy>
